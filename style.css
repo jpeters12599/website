@@ -1,4 +1,31 @@
+html {
+  background-color: tan
+}
 h1 {
-  color: red;
+  color: darkblue;
   text-align: center;
 } 
+a:link {
+  color: blue;
+  font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: right;
+}
+a:visited {
+  color: purple;
+  font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: right;
+}
+a:hover {
+  color: black;
+  font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: right;
+}
+a:active {
+  color: green;
+  font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: right;
+}
