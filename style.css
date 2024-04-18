@@ -1,31 +1,58 @@
 html {
-  background-color: tan
+  background-color: black;
+  color: white;
+}
+#bio{
+  color: white;
+  text-align: center;
+  margin-top:1px;
+  padding: 20px;
+  height: 30px
+
+#info{
+  color: white
+  background-color: black;
+}
 }
 h1 {
   color: darkblue;
   text-align: center;
 } 
+
+p {
+  text-align:left;
+  font-size: 17px;
+  margin-top: 0em;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  background-color: midnightblue;
+}
+
 a:link {
-  color: blue;
+  color: white;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
   text-decoration: none;
+  margin-right:.25em;
+  margin-left: .25em;
 }
 a:visited {
-  color: purple;
+  color: white;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
   text-decoration: none;
+  margin-right:.25em;
+  margin-left: .25em;
 }
 a:hover {
-  color: black;
+  color: grey;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
   text-decoration: none;
+  margin-right:.25em;
+  margin-left: .25em;
 }
 a:active {
   color: green;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
   text-decoration: none;
+  margin-right:.25em;
+  margin-left: .25em;
 }
