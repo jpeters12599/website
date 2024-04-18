@@ -9,23 +9,23 @@ a:link {
   color: blue;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  text-align: right;
+  text-decoration: none;
 }
 a:visited {
   color: purple;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  text-align: right;
+  text-decoration: none;
 }
 a:hover {
   color: black;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  text-align: right;
+  text-decoration: none;
 }
 a:active {
   color: green;
   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  text-align: right;
+  text-decoration: none;
 }
